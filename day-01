@@ -1,0 +1,28 @@
+Day;1
+Susskind Chapter 1 —
+the spin experiment. pretty basic stuff
+How measuring a quantum system along one axis destroys information about the previous measurement axis.
+
+What I thought at first was decoherence. 
+Turns out that's a more advanced concept I jumped to soon 
+. 
+What I actually understood:
+When you measure spin along z and get up,
+then measure along x, then go back to z then the original z information is gone.
+Not scattered . Not hidden. Actually gone. A coin according to the laws of classical physics, it doesn't behave this way  checking heads doesn't destroy heads.
+For a particle to have previously known answers for every possible measurement direction, it would need to know which direction you'd measure in advance.(which just feels like nonsense but it is what is is ....0
+
+ This leads to Bell's theorem.
+Bell proved mathematically that if hidden variables existed, particle connections must obey soem inequalities. 
+But to Knowons suprise, experiments violated those inequalities. 
+  Hidden variables don't work, not because we can't access them but because they just don't exist until we the measurer, take the measuremennt.
+What this  means is that the universe decides at the moment of measurement.
+  
+What still confuses me:
+If reality is genuinely undetermined until measurement, what exactly is doing the measuring? 
+  Does a detector count? 
+  Does it need a conscious observer? Where does the measurement actually happen?
+Tomorrow:
+Chapter 2 — moving into the actual mathematical formalism of states and operators.
+Honest self assessment:
+Jumped to an advanced concept before nailing the basics. Need to slow down and let Susskind build the foundation before reaching for things I've heard about from videos.
