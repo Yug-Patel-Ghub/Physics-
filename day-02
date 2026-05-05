@@ -1,0 +1,25 @@
+
+Day 02 — Why Real Numbers Are Basically Useless 
+
+  
+So today Susskind decided it was time to introduce some actual mathematics. 
+Chapter 2. Vector spaces, quantum states, coordinates, basis vectors. 
+The usual warmup before things get truly into a downwards spiral.
+
+A vector space is a mathematical structure where you can add things together and stretch them by numbers and the universe doesn't collapse.
+Quantum mechanics needs a specific type: a complex one , Called a Hilbert space. 
+  
+Why real numbers aren't enough and I had to learn this the hard way:
+I thought real numbers would be fine. Positive, negative, done. Turns out no. Real numbers only let amplitudes point in two directions forward or backward.
+Complex numbers let them point anywhere in a full circle. Quantum interference needs that full circle because the phase is constantly rotating.
+It doesn't just flip like a light switch. Real numbers are more like a light switch whereas Complex numbers give you a potentiometer. Quantum mechanics needs the potentiometer.
+
+The thing that made yesterday click:
+Quantum coordinates aren't positions like in normal life. They're complex amplitudes.
+Each one secretly carries two things: Firstly, how probable something is and which direction its phase is pointing. 
+Secondly, When you measure something you force the system to pick one outcome and all the other amplitudes just become irrelevant. Not destroyed. Not hidden somewhere. Just  gone from the picture.
+That's why measurement kills information.
+The thing that is currently breaking my brain:
+If measurement makes all the other amplitudes irrelevant — where do they actually go? They existed a moment ago. Now they don't matter. This is apparently called the measurement problem and nobody has fully solved it yet. Adding it to my list of things that will keep me up at night.
+Honest self assessment:
+I have a habit of reaching for impressive sounding answers before checking if they're actually meaningful. Algebraic closure sounds very smart. It is also not the real reason quantum mechanics needs complex numbers. Must stop dressing up surface understanding in technical clothing.
